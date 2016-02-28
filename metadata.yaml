@@ -1,0 +1,63 @@
+_repo: Die-Geburt-der-Tragodie-Versuch-einer-Selbstkritik_7206
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: "The Birth of Tragedy from the Spirit of Music (German: Die Geburt der\
+  \ Tragödie aus dem Geiste der Musik) is an 1872 work of dramatic theory by the German\
+  \ philosopher Friedrich Nietzsche. It was reissued in 1886 as The Birth of Tragedy,\
+  \ Or: Hellenism and Pessimism (Die Geburt der Tragödie, Oder: Griechentum und Pessimismus).\
+  \ The later edition contained a prefatory essay, An Attempt at Self-Criticism, wherein\
+  \ Nietzsche commented on this earliest book.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- DE Sachbuch
+- Philosophy
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7206'
+  wikidata: Q1053359
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek drama (Tragedy) -- History and criticism -- Theory, etc.'
+- !lcsh 'Philosophy, German'
+- !lcc 'B'
+- !lcsh 'Tragedy'
+- !lcsh 'Mythology, Greek, in literature'
+- !lcsh 'Aesthetics'
+- !lcsh 'Music -- Philosophy and aesthetics'
+- !lcsh 'Tragic, The'
+title: 'Die Geburt der Tragödie: Versuch einer Selbstkritik'
+url: http://www.gutenberg.org/ebooks/7206
+wikipedia:
+- https://fi.wikipedia.org/wiki/Tragedian_synty
+- https://eo.wikipedia.org/wiki/La_naski%C4%9Do_de_la_tragedio_el_la_spirito_de_la_muziko
+- https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%DB%8C%D8%B4_%D8%AA%D8%B1%D8%A7%DA%98%D8%AF%DB%8C
+- https://kk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F%D0%BD%D1%8B%D2%A3_%D1%82%D1%83%D1%83%D1%8B
+- https://eml.wikipedia.org/wiki/Al_naser_dla_trag%C3%A9dia
+- https://fr.wikisource.org/wiki/L%E2%80%99Origine_de_la_Trag%C3%A9die
+- https://ja.wikipedia.org/wiki/%E6%82%B2%E5%8A%87%E3%81%AE%E8%AA%95%E7%94%9F
+- https://pt.wikipedia.org/wiki/O_Nascimento_da_Trag%C3%A9dia_no_Esp%C3%ADrito_da_M%C3%BAsica
+- https://es.wikipedia.org/wiki/El_nacimiento_de_la_tragedia_en_el_esp%C3%ADritu_de_la_m%C3%BAsica
+- https://sk.wikipedia.org/wiki/Zrodenie_trag%C3%A9die_z_ducha_hudby
+- https://en.wikipedia.org/wiki/The_Birth_of_Tragedy
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D0%B8_%D0%B8%D0%B7_%D0%B4%D1%83%D1%85%D0%B0_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8
+- https://ko.wikipedia.org/wiki/%EB%B9%84%EA%B7%B9%EC%9D%98_%ED%83%84%EC%83%9D
+- https://et.wikipedia.org/wiki/Trag%C3%B6%C3%B6dia_s%C3%BCnd_muusika_vaimust
+- https://fr.wikipedia.org/wiki/La_Naissance_de_la_trag%C3%A9die
+- https://sh.wikipedia.org/wiki/Die_Geburt_der_Trag%C3%B6die_aus_dem_Geist_der_Musik
+- https://zh.wikipedia.org/wiki/%E6%82%B2%E5%89%A7%E7%9A%84%E8%AF%9E%E7%94%9F
+- https://zh.wikiquote.org/wiki/%E6%82%B2%E5%8A%87%E7%9A%84%E8%AA%95%E7%94%9F
+- https://cs.wikipedia.org/wiki/Zrozen%C3%AD_trag%C3%A9die_z_ducha_hudby
+- https://de.wikipedia.org/wiki/Die_Geburt_der_Trag%C3%B6die_aus_dem_Geiste_der_Musik
+- https://sr.wikipedia.org/wiki/%D0%A0%D0%BE%D1%92%D0%B5%D1%9A%D0%B5_%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%98%D0%B5
+- https://it.wikipedia.org/wiki/La_Nascita_della_Tragedia
+- https://hr.wikipedia.org/wiki/Ro%C4%91enje_tragedije
+- https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%9C%D7%93%D7%AA_%D7%94%D7%98%D7%A8%D7%92%D7%93%D7%99%D7%94
