@@ -1,4 +1,8 @@
 _repo: Die-Geburt-der-Tragodie-Versuch-einer-Selbstkritik_7206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -13,6 +17,8 @@ description: "The Birth of Tragedy from the Spirit of Music (German: Die Geburt 
   \ Or: Hellenism and Pessimism (Die Geburt der Tragödie, Oder: Griechentum und Pessimismus).\
   \ The later edition contained a prefatory essay, An Attempt at Self-Criticism, wherein\
   \ Nietzsche commented on this earliest book.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7206#Die-Geburt-der-Tragodie-Versuch-einer-Selbstkritik
 gutenberg_bookshelf:
 - DE Sachbuch
 - Philosophy
